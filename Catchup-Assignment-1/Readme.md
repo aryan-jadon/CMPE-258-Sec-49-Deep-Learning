@@ -1,5 +1,7 @@
 # Catchup Assignment 1
 
+#### Google Colab Link - https://colab.research.google.com/drive/1wrDRBfL9UdKAo9syHP2R5oK2JKsms_Yl?usp=sharing
+
 Colab have sections of deep recommender system system/colab which does both item to item, and user to item recommendation  models
 which utilizes all the state of art techniques in one system
 
